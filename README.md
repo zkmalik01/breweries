@@ -1,4 +1,4 @@
-# breweries
+# Breweries
 List and search all breweries from the open brewery API
 ## Prerequisites
 - Python 3.9.0
